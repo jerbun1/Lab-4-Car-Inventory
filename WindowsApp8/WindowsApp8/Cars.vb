@@ -27,7 +27,6 @@
         carIdentificationNumber = inventoryCount
         ' This call is required by the designer.
 
-        ' Add any initialization after the InitializeComponent() call.
 
     End Sub
 
